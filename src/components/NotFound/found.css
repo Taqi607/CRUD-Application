@@ -1,0 +1,6 @@
+.pgn {
+  display: grid;
+  place-items: center;
+  margin: 120px auto;
+  padding: 100px;
+}
